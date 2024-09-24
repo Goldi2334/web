@@ -1,0 +1,11 @@
+p,
+title {
+    color: red;
+    width: 506px;
+    border: 1px solid black;
+}
+
+h1 {
+    color: chartreuse;
+    border: 2px solid blueviolet;
+}
